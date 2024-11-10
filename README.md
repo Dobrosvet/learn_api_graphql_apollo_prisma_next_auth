@@ -1,6 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# API, Next.js, Apollo, GraphQL, Prisma, React, Auth
+
+- [Пример по которому можно делать этот обучающий репозиторий](https://github.com/nakaakist/next-ts-prisma-graphql-example)
+
+
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 First, run the development server:
 

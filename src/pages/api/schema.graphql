@@ -6,4 +6,13 @@
 type Query {
   "Привет из кода в документацию"
   hello: String
+  blocks: [Block]
+  block(id: ID!): Block
+}
+
+type Block {
+  id: ID!
+  content: String!
+  from: [Block]
+  to: [Block]
 }

@@ -21,7 +21,7 @@
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="557.40625" width="230.0" x="0.0" y="857.5344246031746"/>
+                  <y:Geometry height="557.40625" width="230.0" x="0.0" y="1573.792361111111"/>
                   <y:Fill color="#F2F2F228" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 1</y:NodeLabel>
@@ -59,7 +59,7 @@
         <node id="n0::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="909.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1626.198611111111"/>
               <y:Fill color="#CCFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Получить все блоки
@@ -71,7 +71,7 @@ GET /api/block</y:NodeLabel>
         <node id="n0::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1009.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1726.198611111111"/>
               <y:Fill color="#CCFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Получить блок
@@ -83,7 +83,7 @@ GET /api/block?id={id}</y:NodeLabel>
         <node id="n0::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1109.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1826.198611111111"/>
               <y:Fill color="#CCFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Создать блок
@@ -95,7 +95,7 @@ PUT /api/block</y:NodeLabel>
         <node id="n0::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1209.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1926.198611111111"/>
               <y:Fill color="#CCFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Изменить блок
@@ -107,7 +107,7 @@ PATCH /api/block</y:NodeLabel>
         <node id="n0::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="1309.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="15.0" y="2026.198611111111"/>
               <y:Fill color="#CCFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Удалить блок
@@ -125,7 +125,7 @@ DELETE /api/block</y:NodeLabel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="557.40625" width="230.0" x="275.0" y="857.5344246031746"/>
+                  <y:Geometry height="557.40625" width="230.0" x="275.0" y="1573.792361111111"/>
                   <y:Fill color="#F2F2F228" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 2</y:NodeLabel>
@@ -163,7 +163,7 @@ DELETE /api/block</y:NodeLabel>
         <node id="n1::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="909.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1626.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="7.85205078125">Получить всех пользователей
@@ -175,7 +175,7 @@ GET /api/user</y:NodeLabel>
         <node id="n1::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1009.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1726.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Получить пользователя
@@ -187,7 +187,7 @@ GET /api/user?id={id}</y:NodeLabel>
         <node id="n1::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1109.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1826.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Создать пользователя
@@ -199,7 +199,7 @@ PUT /api/user</y:NodeLabel>
         <node id="n1::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1209.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1926.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Изменить пользователя
@@ -211,7 +211,7 @@ PATCH /api/user</y:NodeLabel>
         <node id="n1::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="1309.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="290.0" y="2026.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Удалить пользователя
@@ -229,7 +229,7 @@ DELETE /api/user</y:NodeLabel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="557.40625" width="230.0" x="550.0" y="857.5344246031746"/>
+                  <y:Geometry height="557.40625" width="230.0" x="550.0" y="1573.792361111111"/>
                   <y:Fill color="#F2F2F228" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 3</y:NodeLabel>
@@ -267,7 +267,7 @@ DELETE /api/user</y:NodeLabel>
         <node id="n2::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="909.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1626.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Получить все связи
@@ -279,7 +279,7 @@ GET /api/link</y:NodeLabel>
         <node id="n2::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1009.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1726.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Получить связь
@@ -291,7 +291,7 @@ GET /api/link?id={id}</y:NodeLabel>
         <node id="n2::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1109.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1826.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Создать связь
@@ -303,7 +303,7 @@ PUT /api/link</y:NodeLabel>
         <node id="n2::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1209.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1926.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Изменить связь
@@ -315,7 +315,7 @@ PATCH /api/link</y:NodeLabel>
         <node id="n2::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="1309.9406746031746"/>
+              <y:Geometry height="70.0" width="199.4000000000001" x="565.0" y="2026.198611111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="199.4000000000001" x="0.0" xml:space="preserve" y="15.9013671875">Удалить связь
@@ -333,14 +333,14 @@ DELETE /api/link</y:NodeLabel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="812.5344246031746" width="2879.0" x="0.0" y="0.0"/>
+                  <y:Geometry height="658.8650793650794" width="3112.0" x="0.0" y="869.9272817460316"/>
                   <y:Fill color="#F2F2F228" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 4</y:NodeLabel>
                   <y:Shape type="rectangle"/>
                   <y:State closed="false" closedHeight="80.0" closedWidth="100.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="20" bottomF="20.0" left="0" leftF="0.0" right="0" rightF="0.3426080509957501" top="20" topF="20.0"/>
+                  <y:BorderInsets bottom="20" bottomF="20.00019841269841" left="0" leftF="0.0" right="1" rightF="0.5432557319504667" top="20" topF="20.000099206349205"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="116.95225315806084" width="136.4102512607061" x="985.7616216568779" y="511.10958350090436"/>
@@ -371,7 +371,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="1129.7000000000003" y="707.0344246031746"/>
+              <y:Geometry height="36.0" width="116.0" x="1947.3899827126563" y="988.3336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Prisma</y:NodeLabel>
@@ -382,7 +382,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n1">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="442.10000000000014" y="403.553869047619"/>
+              <y:Geometry height="36.0" width="116.0" x="1947.3899827126563" y="922.3336309523808"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Apollo</y:NodeLabel>
@@ -393,7 +393,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n2">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="101.70000000000005" y="186.05386904761895"/>
+              <y:Geometry height="36.0" width="116.0" x="15.0" y="1049.8336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">GraphQL</y:NodeLabel>
@@ -404,7 +404,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n3">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="782.5000000000002" y="741.5344246031746"/>
+              <y:Geometry height="36.0" width="116.0" x="1483.0163231270358" y="1010.8336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Next.js</y:NodeLabel>
@@ -415,7 +415,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n4">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="1129.7000000000003" y="450.5756944444444"/>
+              <y:Geometry height="36.0" width="116.0" x="2637.556744268049" y="1372.617361111111"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Авторизация</y:NodeLabel>
@@ -426,7 +426,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n5">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="166.80000000000007" width="180.4000000000001" x="1411.0000000000002" y="492.5550595238094"/>
+              <y:Geometry height="166.80000000000007" width="180.4000000000001" x="2916.0567442680494" y="972.9336309523808"/>
               <y:Fill color="#FFFF99" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="134.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="180.4000000000001" x="0.0" xml:space="preserve" y="16.00546875000009">Работает API с GraphQL, Apollo Server. С автоматической генерацией документации, кода сервера используя ORM Prisma и кода клиента используя React</y:NodeLabel>
@@ -437,10 +437,10 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n6">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="160.45833333333326" width="150.0" x="1112.7000000000003" y="516.5758928571429"/>
+              <y:Geometry height="160.45833333333326" width="150.0" x="2620.556744268049" y="1182.1588293650793"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="134.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="12.834635416666629">От GraphQL должна быть возможность выбрать по блоку, его связи, по свзям блоки и так далее и так далее, многоуровнево до бесконечности</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="134.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="12.834635416666515">От GraphQL должна быть возможность выбрать по блоку, его связи, по свзям блоки и так далее и так далее, многоуровнево до бесконечности</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -448,7 +448,7 @@ DELETE /api/link</y:NodeLabel>
         <node id="n3::n7">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="87.0" width="289.4000000000001" x="695.8000000000002" y="563.053869047619"/>
+              <y:Geometry height="87.0" width="289.4000000000001" x="2203.656744268049" y="1363.0491071428569"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="0.25341796875">Репозиторий интеграции Apollo Server с Next.js
@@ -461,7 +461,7 @@ https://github.com/apollo-server-integrations/apollo-server-integration-next</y:
         <node id="n3::n8">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="88.0" width="289.4000000000001" x="355.4000000000001" y="562.553869047619"/>
+              <y:Geometry height="88.0" width="289.4000000000001" x="1860.6899827126563" y="1362.5491071428569"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="0.75341796875">Apollo Server Integrations
@@ -474,10 +474,10 @@ https://www.apollographql.com/docs/apollo-server/integrations/integration-index 
         <node id="n3::n9">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="160.45833333333326" width="289.4000000000001" x="15.0" y="472.83859126984123"/>
+              <y:Geometry height="160.45833333333326" width="289.4000000000001" x="1396.3163231270357" y="1333.3338293650793"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="150.8876953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="4.785319010416629">Implementing GraphQL and Apollo Server with Next.js 13.4: A Simple Guide (App Directory)
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="150.8876953125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="4.7853190104167425">Implementing GraphQL and Apollo Server with Next.js 13.4: A Simple Guide (App Directory)
 
 https://medium.com/@jareerzeenam/implementing-graphql-and-apollo-server-with-next-js-13-4-a-simple-guide-app-directory-77e38eb697e3</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
@@ -487,7 +487,7 @@ https://medium.com/@jareerzeenam/implementing-graphql-and-apollo-server-with-nex
         <node id="n3::n10">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="36.0" width="116.0" x="442.10000000000014" y="337.553869047619"/>
+              <y:Geometry height="36.0" width="116.0" x="1947.3899827126563" y="1264.3336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Bun</y:NodeLabel>
@@ -498,7 +498,7 @@ https://medium.com/@jareerzeenam/implementing-graphql-and-apollo-server-with-nex
         <node id="n3::n11">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="60.0" width="215.0" x="733.0000000000002" y="345.5756944444444"/>
+              <y:Geometry height="60.0" width="215.0" x="2240.8567442680487" y="1139.0836309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.0" x="0.0" xml:space="preserve" y="2.85205078125">Установлен Appolo Server
@@ -511,7 +511,7 @@ https://medium.com/@jareerzeenam/implementing-graphql-and-apollo-server-with-nex
         <node id="n3::n12">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="87.0" width="289.4000000000001" x="355.4000000000001" y="220.55386904761895"/>
+              <y:Geometry height="87.0" width="289.4000000000001" x="1860.6899827126563" y="1147.3336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="70.39453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="8.302734375">Get Started with Apollo Server
@@ -524,7 +524,7 @@ https://www.apollographql.com/docs/apollo-server/getting-started</y:NodeLabel>
         <node id="n3::n13">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="60.0" width="215.0" x="733.0000000000002" y="217.35624999999993"/>
+              <y:Geometry height="60.0" width="215.0" x="2240.8567442680487" y="1261.3336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.0" x="0.0" xml:space="preserve" y="2.85205078125">Установлен GraphQL
@@ -537,7 +537,7 @@ https://www.apollographql.com/docs/apollo-server/getting-started</y:NodeLabel>
         <node id="n3::n14">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="60.0" width="303.0" x="1036.2000000000003" y="360.5756944444444"/>
+              <y:Geometry height="60.0" width="303.0" x="2544.056744268049" y="1092.158630952381"/>
               <y:Fill color="#FFD700" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
               <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="303.0" x="0.0" xml:space="preserve" y="2.85205078125">Apollo Sever работает с Next.js по адресу
@@ -550,10 +550,10 @@ http://localhost:3000/api/graphql</y:NodeLabel>
         <node id="n3::n15">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="60.0" width="215.0" x="392.60000000000014" y="469.553869047619"/>
+              <y:Geometry height="60.0" width="215.0" x="1897.8899827126563" y="1057.3336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.0" x="0.0" xml:space="preserve" y="2.852050781249943">Установлен GraphQL Tag
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="215.0" x="0.0" xml:space="preserve" y="2.85205078125">Установлен GraphQL Tag
 
 `bun i graphql-tag`</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
@@ -563,21 +563,10 @@ http://localhost:3000/api/graphql</y:NodeLabel>
         <node id="n3::n16">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="208.64288349445258" width="487.2648199782842" x="1839.4590488599351" y="206.88718920515464"/>
+              <y:Geometry height="36.0" width="116.0" x="1026.7543887079264" y="935.8336309523808"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="199.18359375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="487.2648199782842" x="0.0" xml:space="preserve" y="4.729644872226288">const schema = loadSchemaSync(join(__dirname, './schema.graphql'), {
-  loaders: [new GraphQLFileLoader()]
-})
-
-const schemaWithResolvers = addResolversToSchema({
-  schema,
-  resolvers,
-})
-
-const server = new ApolloServer({
-  schema: schemaWithResolvers
-});</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">GraphQL схема</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -585,173 +574,10 @@ const server = new ApolloServer({
         <node id="n3::n17">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="70.0" width="68.72486427795874" x="465.73756786102075" y="117.35624999999993"/>
+              <y:Geometry height="36.0" width="116.0" x="1026.7543887079264" y="1001.8336309523809"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="70.39453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.72486427795874" x="0.0" xml:space="preserve" y="-0.197265625">
-Graphql Tools
-</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n18">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="70.0" width="289.4000000000001" x="695.8000000000002" y="117.35624999999993"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="7.85205078125">Сайт The Guild. Он же сайт Graphql Tools
-
-https://the-guild.dev/graphql/tools</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n19">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="135.76508143322476" width="150.0" x="1426.2000000000003" y="169.40664579132408"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="134.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="0.4880094666123682">Установлен "GraphQL File Loader" из GraphQL Tools
-
-`bun i @graphql-tools/graphql-file-loader`</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n20">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="94.05744017372422" width="150.0" x="1112.7000000000003" y="87.82752991313782"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="3.7821380556121085">Schema Loading
-
-https://the-guild.dev/graphql/tools/docs/schema-loading</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n21">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="114.86387491856675" width="150.0" x="1112.7000000000003" y="213.7985188899229"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="118.6904296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="-1.9132773844665962">Migration from GraphQL Import
-
-https://the-guild.dev/graphql/tools/docs/migration/migration-from-import</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n22">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="87.0" width="150.0" x="1426.2000000000003" y="52.40625"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="0.25341796875">Установлен "Load" из GraphQL Tools
-
-`bun i @graphql-tools/load`</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n23">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="107.71166297502714" width="150.0" x="1426.2000000000003" y="354.8432756553435"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="102.591796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="2.5599330500135693">Установлен "Schema" из GraphQL Tools
-
-`bun i @graphql-tools/schema`</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n24">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="70.0" width="179.25904885993486" x="1609.2000000000003" y="402.28918650793645"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано addResolversToSchema</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n25">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="70.0" width="179.25904885993486" x="1609.2000000000003" y="60.90625"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано loadSchemaSync</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n26">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="70.0" width="179.25904885993486" x="1609.2000000000003" y="202.2891865079365"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано GraphQLFileLoader</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n27">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="70.0" width="179.25904885993486" x="1609.2000000000003" y="302.28918650793645"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано join из "node:path"</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n28">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="84.88527870873077" width="116.0" x="2747.6573919490042" y="603.5917852488092"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="-0.803942676884617">GraphQL схема подключается из файла и передаётся Apollo Server</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n29">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="100.0" width="303.48249919295677" x="2364.949380797133" y="531.0344246031746"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="303.48249919295677" x="0.0" xml:space="preserve" y="6.75341796875">Ошибка что схема GraphQL не определена
-
-На самом деле по тому что мы находимся в Next.js и переменная `__dirname` не определена</y:NodeLabel>
-              <y:Shape type="roundrectangle"/>
-            </y:ShapeNode>
-          </data>
-        </node>
-        <node id="n3::n30">
-          <data key="d6">
-            <y:ShapeNode>
-              <y:Geometry height="100.0" width="359.9335231107848" x="2336.7238688382195" y="661.0344246031746"/>
-              <y:Fill color="#FFFFFF" transparent="false"/>
-              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="359.9335231107848" x="0.0" xml:space="preserve" y="6.75341796875">import { fileURLToPath } from 'url';
-import { dirname } from 'path';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);</y:NodeLabel>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">React</y:NodeLabel>
               <y:Shape type="roundrectangle"/>
             </y:ShapeNode>
           </data>
@@ -765,14 +591,14 @@ const __dirname = dirname(__filename);</y:NodeLabel>
             <y:ProxyAutoBoundsNode>
               <y:Realizers active="0">
                 <y:GroupNode>
-                  <y:Geometry height="478.4157738095238" width="525.0" x="825.0" y="857.5344246031744"/>
+                  <y:Geometry height="478.41577380952367" width="525.0" x="825.0" y="1573.792361111111"/>
                   <y:Fill color="#F2F2F228" transparent="false"/>
                   <y:BorderStyle color="#000000" type="line" width="1.0"/>
                   <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 5</y:NodeLabel>
                   <y:Shape type="rectangle"/>
                   <y:State closed="false" closedHeight="80.0" closedWidth="100.0" innerGraphDisplayEnabled="false"/>
                   <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
-                  <y:BorderInsets bottom="20" bottomF="20.000266790755404" left="0" leftF="0.0" right="1" rightF="0.5841042345277856" top="20" topF="20.000266790755404"/>
+                  <y:BorderInsets bottom="20" bottomF="20.000266790755404" left="0" leftF="0.0" right="1" rightF="0.5841042345277856" top="20" topF="20.000266790755177"/>
                 </y:GroupNode>
                 <y:GroupNode>
                   <y:Geometry height="116.95225315806084" width="136.4102512607061" x="985.7616216568779" y="511.10958350090436"/>
@@ -803,10 +629,10 @@ const __dirname = dirname(__filename);</y:NodeLabel>
         <node id="n4::n0">
           <data key="d6">
             <y:ShapeNode>
-              <y:Geometry height="391.00899022801303" width="494.4158957654722" x="840.0" y="909.9409413939298"/>
+              <y:Geometry height="391.00899022801303" width="494.4158957654722" x="840.0" y="1626.1988779018661"/>
               <y:Fill color="#FFFFFF" transparent="false"/>
               <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
-              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="263.578125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="494.4158957654722" x="0.0" xml:space="preserve" y="63.715432614006545">Настройки укладки yEd
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="263.578125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="494.4158957654722" x="0.0" xml:space="preserve" y="63.71543261400643">Настройки укладки yEd
 
 Иерархическая укладка Alt+Shift+H
 Группы укладываются в "плавательные дорожки" (swimlines)
@@ -828,6 +654,334 @@ True</y:NodeLabel>
         </node>
       </graph>
     </node>
+    <node id="n5" yfiles.foldertype="group">
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="484.7623015873015" width="3112.0" x="0.0" y="385.16498015873003"/>
+                  <y:Fill color="#F2F2F228" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 6</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="80.0" closedWidth="100.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="20" bottomF="20.000120893438748" left="149" leftF="149.0" right="691" rightF="690.6432557319513" top="20" topF="20.000099206349205"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="116.95225315806084" width="136.4102512607061" x="985.7616216568779" y="511.10958350090436"/>
+                  <y:Fill color="#F2F2F2" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="123.841796875" x="0.0" xml:space="preserve" y="0.0">      Группа свёрнута</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="116.95225315806084" closedWidth="136.4102512607061" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.02685546875" x="-4.513427734375" xml:space="preserve" y="0.0">Folder 6</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n5:">
+        <node id="n5::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="208.64288349445258" width="487.2648199782842" x="1297.3839131378936" y="576.7498876178529"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="199.18359375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="487.2648199782842" x="0.0" xml:space="preserve" y="4.729644872226345">const schema = loadSchemaSync(join(__dirname, './schema.graphql'), {
+  loaders: [new GraphQLFileLoader()]
+})
+
+const schemaWithResolvers = addResolversToSchema({
+  schema,
+  resolvers,
+})
+
+const server = new ApolloServer({
+  schema: schemaWithResolvers
+});</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="68.72486427795874" x="164.0" y="672.3872023809522"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="70.39453125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="68.72486427795874" x="0.0" xml:space="preserve" y="-0.197265625">
+Graphql Tools
+</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="289.4000000000001" x="252.72486427795877" y="672.3872023809522"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="54.2958984375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="289.4000000000001" x="0.0" xml:space="preserve" y="7.85205078125">Сайт The Guild. Он же сайт Graphql Tools
+
+https://the-guild.dev/graphql/tools</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="135.76508143322476" width="150.0" x="812.1248642779589" y="554.5717251564033"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="134.7890625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="0.48800946661242506">Установлен "GraphQL File Loader" из GraphQL Tools
+
+`bun i @graphql-tools/graphql-file-loader`</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n4">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="94.05744017372422" width="150.0" x="575.1248642779589" y="677.8584822940901"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="3.7821380556121085">Schema Loading
+
+https://the-guild.dev/graphql/tools/docs/schema-loading</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n5">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="114.86387491856675" width="150.0" x="575.1248642779589" y="531.0810585724624"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="118.6904296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="-1.9132773844665962">Migration from GraphQL Import
+
+https://the-guild.dev/graphql/tools/docs/migration/migration-from-import</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n6">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="87.0" width="150.0" x="812.1248642779589" y="437.57132936507924"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="0.25341796875">Установлен "Load" из GraphQL Tools
+
+`bun i @graphql-tools/load`</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n7">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="107.71166297502714" width="150.0" x="812.1248642779589" y="727.2154978775657"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="102.591796875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="150.0" x="0.0" xml:space="preserve" y="2.5599330500135693">Установлен "Schema" из GraphQL Tools
+
+`bun i @graphql-tools/schema`</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n8">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="179.25904885993486" x="995.124864277959" y="746.0713293650792"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано addResolversToSchema</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n9">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="179.25904885993486" x="995.124864277959" y="446.07132936507924"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано loadSchemaSync</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n10">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="179.25904885993486" x="995.124864277959" y="546.0713293650792"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано GraphQLFileLoader</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n11">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="70.0" width="179.25904885993486" x="995.124864277959" y="646.0713293650792"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="38.197265625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="179.25904885993486" x="0.0" xml:space="preserve" y="15.9013671875">Импортировано join из "node:path"</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n12">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="84.88527870873077" width="116.0" x="2290.3567442680487" y="652.9679757249995"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="-0.803942676884617">GraphQL схема подключается из файла и передаётся Apollo Server</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n13">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="100.0" width="303.48249919295677" x="1853.648733116178" y="645.4106150793649"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="303.48249919295677" x="0.0" xml:space="preserve" y="6.75341796875">Ошибка что схема GraphQL не определена
+
+На самом деле по тому что мы находимся в Next.js и переменная `__dirname` не определена</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n5::n14">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="100.0" width="359.9335231107848" x="1825.423221157264" y="512.4106150793649"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="left" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="359.9335231107848" x="0.0" xml:space="preserve" y="6.75341796875">import { fileURLToPath } from 'url';
+import { dirname } from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
+    <node id="n6" yfiles.foldertype="group">
+      <data key="d6">
+        <y:ProxyAutoBoundsNode>
+          <y:Realizers active="0">
+            <y:ProxyAutoBoundsNode>
+              <y:Realizers active="0">
+                <y:GroupNode>
+                  <y:Geometry height="385.16498015873026" width="3112.0" x="0.0" y="0.0"/>
+                  <y:Fill color="#F2F2F228" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="50.001953125" x="0.0" xml:space="preserve" y="0.0">Group 7</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="false" closedHeight="80.0" closedWidth="100.0" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="20" bottomF="20.000260534535414" left="1932" leftF="1932.3899827126563" right="677" rightF="676.8181288060528" top="20" topF="19.999999999999773"/>
+                </y:GroupNode>
+                <y:GroupNode>
+                  <y:Geometry height="116.95225315806084" width="136.4102512607061" x="985.7616216568779" y="511.10958350090436"/>
+                  <y:Fill color="#F2F2F2" transparent="false"/>
+                  <y:BorderStyle color="#000000" type="line" width="1.0"/>
+                  <y:NodeLabel alignment="center" autoSizePolicy="content" borderDistance="0.0" fontFamily="Arial" fontSize="12" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="17.40625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="tl" textColor="#000000" verticalTextPosition="bottom" visible="true" width="123.841796875" x="0.0" xml:space="preserve" y="0.0">      Группа свёрнута</y:NodeLabel>
+                  <y:Shape type="rectangle"/>
+                  <y:State closed="true" closedHeight="116.95225315806084" closedWidth="136.4102512607061" innerGraphDisplayEnabled="false"/>
+                  <y:Insets bottom="15" bottomF="15.0" left="15" leftF="15.0" right="15" rightF="15.0" top="15" topF="15.0"/>
+                  <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+                </y:GroupNode>
+              </y:Realizers>
+            </y:ProxyAutoBoundsNode>
+            <y:GroupNode>
+              <y:Geometry height="50.0" width="50.0" x="0.0" y="60.0"/>
+              <y:Fill color="#F5F5F5" transparent="false"/>
+              <y:BorderStyle color="#000000" type="dashed" width="1.0"/>
+              <y:NodeLabel alignment="right" autoSizePolicy="node_width" backgroundColor="#EBEBEB" borderDistance="0.0" fontFamily="Dialog" fontSize="15" fontStyle="plain" hasLineColor="false" height="22.37646484375" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="t" textColor="#000000" verticalTextPosition="bottom" visible="true" width="59.02685546875" x="-4.513427734375" xml:space="preserve" y="0.0">Folder 7</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+              <y:State closed="true" closedHeight="50.0" closedWidth="50.0" innerGraphDisplayEnabled="false"/>
+              <y:Insets bottom="5" bottomF="5.0" left="5" leftF="5.0" right="5" rightF="5.0" top="5" topF="5.0"/>
+              <y:BorderInsets bottom="0" bottomF="0.0" left="0" leftF="0.0" right="0" rightF="0.0" top="0" topF="0.0"/>
+            </y:GroupNode>
+          </y:Realizers>
+        </y:ProxyAutoBoundsNode>
+      </data>
+      <graph edgedefault="directed" id="n6:">
+        <node id="n6::n0">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="132.62805035950112" width="152.0724481623297" x="2268.1094230316176" y="217.53666926469373"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="118.6904296875" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.0724481623297" x="0.0" xml:space="preserve" y="6.968810336000558">Сгенерирован код сервера с помощью Apollo использующий ORM Prisma из GraphQL схемы для работы с ней по API</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n6::n1">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="132.62805035950112" width="152.0724481623297" x="2268.1094230316176" y="53.827939105963424"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="86.4931640625" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="152.0724481623297" x="0.0" xml:space="preserve" y="23.06744314850056">Сгенерирован код клиента с помощью Apollo для React из GraphQL схемы для работы с ней по API</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n6::n2">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="36.0" width="116.0" x="1947.3899827126563" y="249.9435515873015"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Apollo Server</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+        <node id="n6::n3">
+          <data key="d6">
+            <y:ShapeNode>
+              <y:Geometry height="36.0" width="116.0" x="1947.3899827126563" y="52.40624999999977"/>
+              <y:Fill color="#FFFFFF" transparent="false"/>
+              <y:BorderStyle color="#000000" raised="false" type="line" width="1.0"/>
+              <y:NodeLabel alignment="center" autoSizePolicy="node_width" configuration="CroppingLabel" fontFamily="Arial" fontSize="14" fontStyle="bold" hasBackgroundColor="false" hasLineColor="false" height="22.0986328125" horizontalTextPosition="center" iconTextGap="4" modelName="internal" modelPosition="c" textColor="#000000" verticalTextPosition="bottom" visible="true" width="116.0" x="0.0" xml:space="preserve" y="6.95068359375">Apollo Client</y:NodeLabel>
+              <y:Shape type="roundrectangle"/>
+            </y:ShapeNode>
+          </data>
+        </node>
+      </graph>
+    </node>
     <edge id="n3::e0" source="n3::n8" target="n3::n7">
       <data key="d10">
         <y:PolyLineEdge>
@@ -841,7 +995,10 @@ True</y:NodeLabel>
     <edge id="n3::e1" source="n3::n9" target="n3::n8">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="53.486111111111086" tx="-144.70000000000005" ty="-0.0"/>
+          <y:Path sx="144.70000000000005" sy="-0.0" tx="-144.70000000000005" ty="-0.0">
+            <y:Point x="1702.2163231270358" y="1413.5629960317458"/>
+            <y:Point x="1702.2163231270358" y="1406.5491071428569"/>
+          </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
@@ -851,9 +1008,9 @@ True</y:NodeLabel>
     <edge id="n3::e2" source="n3::n1" target="n3::n11">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-0.0" tx="-107.5" ty="20.0">
-            <y:Point x="574.6000000000001" y="421.553869047619"/>
-            <y:Point x="574.6000000000001" y="395.5756944444444"/>
+          <y:Path sx="58.0" sy="12.0" tx="-107.5" ty="-20.0">
+            <y:Point x="2166.5899827126564" y="952.3336309523808"/>
+            <y:Point x="2166.5899827126564" y="1149.0836309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -864,9 +1021,9 @@ True</y:NodeLabel>
     <edge id="n3::e3" source="n3::n10" target="n3::n11">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="9.0" tx="-107.5" ty="-0.0">
-            <y:Point x="574.6000000000001" y="364.553869047619"/>
-            <y:Point x="574.6000000000001" y="375.5756944444444"/>
+          <y:Path sx="58.0" sy="-9.0" tx="-107.5" ty="20.0">
+            <y:Point x="2166.5899827126564" y="1273.3336309523809"/>
+            <y:Point x="2166.5899827126564" y="1189.0836309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -877,10 +1034,7 @@ True</y:NodeLabel>
     <edge id="n3::e4" source="n3::n12" target="n3::n11">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="21.75" tx="-107.5" ty="-20.0">
-            <y:Point x="679.3000000000002" y="285.80386904761895"/>
-            <y:Point x="679.3000000000002" y="355.5756944444444"/>
-          </y:Path>
+          <y:Path sx="144.70000000000005" sy="-21.75" tx="-107.5" ty="-0.0"/>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
@@ -890,9 +1044,9 @@ True</y:NodeLabel>
     <edge id="n3::e5" source="n3::n12" target="n3::n13">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="-21.75" tx="-107.5" ty="-0.0">
-            <y:Point x="661.3000000000002" y="242.30386904761895"/>
-            <y:Point x="661.3000000000002" y="247.35624999999993"/>
+          <y:Path sx="144.70000000000005" sy="21.75" tx="-107.5" ty="-20.0">
+            <y:Point x="2184.5899827126564" y="1212.5836309523809"/>
+            <y:Point x="2184.5899827126564" y="1271.3336309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -903,10 +1057,7 @@ True</y:NodeLabel>
     <edge id="n3::e6" source="n3::n10" target="n3::n13">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-9.0" tx="-107.5" ty="20.0">
-            <y:Point x="661.3000000000002" y="346.553869047619"/>
-            <y:Point x="661.3000000000002" y="267.35624999999993"/>
-          </y:Path>
+          <y:Path sx="58.0" sy="9.0" tx="-107.5" ty="-0.0"/>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
@@ -917,8 +1068,8 @@ True</y:NodeLabel>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="144.70000000000005" sy="-53.486111111111086" tx="-107.5" ty="15.0">
-            <y:Point x="320.9000000000001" y="499.5816468253968"/>
-            <y:Point x="320.9000000000001" y="514.553869047619"/>
+            <y:Point x="1702.2163231270358" y="1360.0768849206347"/>
+            <y:Point x="1702.2163231270358" y="1102.3336309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -929,19 +1080,9 @@ True</y:NodeLabel>
     <edge id="n3::e8" source="n3::n11" target="n3::n14">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="107.5" sy="-0.0" tx="-151.5" ty="-15.0"/>
-          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n3::e9" source="n3::n15" target="n3::n14">
-      <data key="d10">
-        <y:PolyLineEdge>
           <y:Path sx="107.5" sy="-0.0" tx="-151.5" ty="-5.0">
-            <y:Point x="964.5000000000002" y="499.553869047619"/>
-            <y:Point x="964.5000000000002" y="385.5756944444444"/>
+            <y:Point x="2472.3567442680487" y="1169.0836309523809"/>
+            <y:Point x="2472.3567442680487" y="1117.158630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -949,12 +1090,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e10" source="n3::n13" target="n3::n14">
+    <edge id="n3::e9" source="n3::n13" target="n3::n14">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="107.5" sy="-0.0" tx="-151.5" ty="-25.0">
-            <y:Point x="964.5000000000002" y="247.35624999999993"/>
-            <y:Point x="964.5000000000002" y="365.5756944444444"/>
+          <y:Path sx="107.5" sy="-0.0" tx="-151.5" ty="5.0">
+            <y:Point x="2490.3567442680487" y="1291.3336309523809"/>
+            <y:Point x="2490.3567442680487" y="1127.158630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -962,12 +1103,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e11" source="n3::n7" target="n3::n14">
+    <edge id="n3::e10" source="n3::n7" target="n3::n14">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="144.70000000000005" sy="-0.0" tx="-151.5" ty="15.0">
-            <y:Point x="1001.7000000000003" y="606.553869047619"/>
-            <y:Point x="1001.7000000000003" y="405.5756944444444"/>
+            <y:Point x="2509.556744268049" y="1406.5491071428569"/>
+            <y:Point x="2509.556744268049" y="1137.158630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -975,14 +1116,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e12" source="n3::n9" target="n3::n14">
+    <edge id="n3::e11" source="n3::n9" target="n3::n14">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="-0.0" tx="-151.5" ty="5.0">
-            <y:Point x="320.9000000000001" y="553.0677579365079"/>
-            <y:Point x="320.9000000000001" y="546.053869047619"/>
-            <y:Point x="982.5000000000002" y="546.053869047619"/>
-            <y:Point x="982.5000000000002" y="395.5756944444444"/>
+          <y:Path sx="144.70000000000005" sy="53.486111111111086" tx="-151.5" ty="25.0">
+            <y:Point x="2527.556744268049" y="1467.0491071428569"/>
+            <y:Point x="2527.556744268049" y="1147.158630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -990,12 +1129,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e13" source="n3::n4" target="n3::n5">
+    <edge id="n3::e12" source="n3::n4" target="n3::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-0.0" tx="-90.20000000000005" ty="-20.85000000000001">
-            <y:Point x="1279.2000000000003" y="468.5756944444444"/>
-            <y:Point x="1279.2000000000003" y="555.1050595238095"/>
+          <y:Path sx="58.0" sy="-0.0" tx="-90.20000000000005" ty="69.50000000000003">
+            <y:Point x="2899.556744268049" y="1390.617361111111"/>
+            <y:Point x="2899.556744268049" y="1125.8336309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1003,12 +1142,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e14" source="n3::n3" target="n3::n14">
+    <edge id="n3::e13" source="n3::n3" target="n3::n14">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-12.0" tx="-151.5" ty="25.0">
-            <y:Point x="1019.7000000000003" y="747.5344246031746"/>
-            <y:Point x="1019.7000000000003" y="415.5756944444444"/>
+          <y:Path sx="58.0" sy="12.0" tx="-151.5" ty="-15.0">
+            <y:Point x="2364.8567442680487" y="1040.8336309523809"/>
+            <y:Point x="2364.8567442680487" y="1107.158630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1016,12 +1155,14 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e15" source="n3::n0" target="n3::n5">
+    <edge id="n3::e14" source="n3::n0" target="n3::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-0.0" tx="-90.20000000000005" ty="62.550000000000026">
-            <y:Point x="1279.2000000000003" y="725.0344246031746"/>
-            <y:Point x="1279.2000000000003" y="638.5050595238095"/>
+          <y:Path sx="57.99999999999977" sy="9.0" tx="-90.19999999999982" ty="-13.900000000000034">
+            <y:Point x="2079.889982712656" y="1015.3336309523809"/>
+            <y:Point x="2079.889982712656" y="1022.8336309523809"/>
+            <y:Point x="2712.056744268049" y="1022.8336309523809"/>
+            <y:Point x="2712.056744268049" y="1042.4336309523808"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1029,12 +1170,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e16" source="n3::n14" target="n3::n5">
+    <edge id="n3::e15" source="n3::n14" target="n3::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="151.5" sy="-0.0" tx="-90.20000000000005" ty="-62.55000000000001">
-            <y:Point x="1355.7000000000003" y="390.5756944444444"/>
-            <y:Point x="1355.7000000000003" y="513.4050595238094"/>
+          <y:Path sx="151.5" sy="-0.0" tx="-90.20000000000005" ty="13.900000000000006">
+            <y:Point x="2863.556744268049" y="1122.158630952381"/>
+            <y:Point x="2863.556744268049" y="1070.2336309523807"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1042,22 +1183,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e17" source="n3::n6" target="n3::n5">
+    <edge id="n3::e16" source="n3::n6" target="n3::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-0.0" tx="-90.20000000000005" ty="20.85000000000001"/>
-          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n3::e18" source="n3::n2" target="n3::n13">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-0.0" tx="-107.5" ty="-20.0">
-            <y:Point x="679.3000000000002" y="204.05386904761895"/>
-            <y:Point x="679.3000000000002" y="227.35624999999993"/>
+          <y:Path sx="75.0" sy="-0.0" tx="-90.20000000000005" ty="41.70000000000002">
+            <y:Point x="2881.556744268049" y="1262.3879960317458"/>
+            <y:Point x="2881.556744268049" y="1098.033630952381"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1065,12 +1196,14 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e19" source="n3::n2" target="n3::n15">
+    <edge id="n3::e17" source="n3::n2" target="n3::n13">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="12.0" tx="-107.5" ty="-15.0">
-            <y:Point x="338.9000000000001" y="216.05386904761895"/>
-            <y:Point x="338.9000000000001" y="484.553869047619"/>
+          <y:Path sx="58.0" sy="13.5" tx="-107.5" ty="20.0">
+            <y:Point x="147.5" y="1081.3336309523809"/>
+            <y:Point x="147.5" y="1316.8336309523809"/>
+            <y:Point x="2079.889982712656" y="1316.8336309523809"/>
+            <y:Point x="2079.889982712656" y="1311.3336309523809"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1078,12 +1211,22 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e20" source="n3::n2" target="n3::n17">
+    <edge id="n3::e18" source="n3::n2" target="n3::n15">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-12.0" tx="-34.36243213897937" ty="-0.0">
-            <y:Point x="234.20000000000005" y="192.05386904761895"/>
-            <y:Point x="234.20000000000005" y="152.35624999999993"/>
+          <y:Path sx="58.0" sy="4.5" tx="-107.5" ty="-15.0"/>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e0" source="n3::n2" target="n5::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-13.5" tx="-34.36243213897937" ty="-0.0">
+            <y:Point x="147.5" y="1054.3336309523809"/>
+            <y:Point x="147.5" y="707.3872023809522"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1091,7 +1234,7 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e21" source="n3::n17" target="n3::n18">
+    <edge id="n5::e0" source="n5::n1" target="n5::n2">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="34.36243213897937" sy="-0.0" tx="-144.70000000000005" ty="-0.0"/>
@@ -1101,22 +1244,22 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e22" source="n3::n18" target="n3::n20">
+    <edge id="n5::e1" source="n5::n2" target="n5::n4">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="-17.5" tx="-75.0" ty="-0.0"/>
+          <y:Path sx="144.70000000000005" sy="17.5" tx="-75.0" ty="-0.0"/>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e23" source="n3::n20" target="n3::n19">
+    <edge id="n5::e2" source="n5::n4" target="n5::n3">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-0.0" tx="-75.0" ty="-33.9412703583062">
-            <y:Point x="1409.7000000000003" y="134.85624999999993"/>
-            <y:Point x="1409.7000000000003" y="203.34791614963035"/>
+          <y:Path sx="75.0" sy="-0.0" tx="-75.0" ty="33.94127035830619">
+            <y:Point x="795.6248642779589" y="724.8872023809522"/>
+            <y:Point x="795.6248642779589" y="656.3955362313219"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1124,12 +1267,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e24" source="n3::n18" target="n3::n21">
+    <edge id="n5::e3" source="n5::n2" target="n5::n5">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="144.70000000000005" sy="17.5" tx="-75.0" ty="-0.0">
-            <y:Point x="1001.7000000000003" y="169.85624999999993"/>
-            <y:Point x="1001.7000000000003" y="271.2304563492063"/>
+          <y:Path sx="144.70000000000005" sy="-17.5" tx="-75.0" ty="-0.0">
+            <y:Point x="558.6248642779589" y="689.8872023809522"/>
+            <y:Point x="558.6248642779589" y="588.5129960317458"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1137,22 +1280,22 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e25" source="n3::n21" target="n3::n19">
+    <edge id="n5::e4" source="n5::n5" target="n5::n3">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-0.0" tx="-75.0" ty="33.94127035830619"/>
+          <y:Path sx="75.0" sy="-0.0" tx="-75.0" ty="-33.9412703583062"/>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e26" source="n3::n21" target="n3::n22">
+    <edge id="n5::e5" source="n5::n5" target="n5::n6">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-38.28795830618891" tx="-75.0" ty="21.75">
-            <y:Point x="1297.2000000000003" y="232.9424980430174"/>
-            <y:Point x="1297.2000000000003" y="117.65625"/>
+          <y:Path sx="75.0" sy="-38.28795830618891" tx="-75.0" ty="-21.75">
+            <y:Point x="741.6248642779589" y="550.225037725557"/>
+            <y:Point x="741.6248642779589" y="459.32132936507924"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1160,12 +1303,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e27" source="n3::n20" target="n3::n22">
+    <edge id="n5::e6" source="n5::n4" target="n5::n6">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-31.352480057908075" tx="-75.0" ty="-21.75">
-            <y:Point x="1279.2000000000003" y="103.50376994209182"/>
-            <y:Point x="1279.2000000000003" y="74.15625"/>
+          <y:Path sx="75.0" sy="-31.352480057908075" tx="-75.0" ty="21.75">
+            <y:Point x="777.6248642779589" y="693.5347223230441"/>
+            <y:Point x="777.6248642779589" y="502.82132936507924"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1173,12 +1316,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e28" source="n3::n20" target="n3::n23">
+    <edge id="n5::e7" source="n5::n4" target="n5::n7">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="31.352480057908082" tx="-75.0" ty="-26.927915743756785">
-            <y:Point x="1391.7000000000003" y="166.20873005790804"/>
-            <y:Point x="1391.7000000000003" y="381.7711913991003"/>
+          <y:Path sx="75.0" sy="31.352480057908082" tx="-75.0" ty="26.927915743756785">
+            <y:Point x="741.6248642779589" y="756.2396824388603"/>
+            <y:Point x="741.6248642779589" y="807.999245108836"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1186,12 +1329,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e29" source="n3::n21" target="n3::n23">
+    <edge id="n5::e8" source="n5::n5" target="n5::n7">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="38.28795830618891" tx="-75.0" ty="26.927915743756785">
-            <y:Point x="1373.7000000000003" y="309.5184146553952"/>
-            <y:Point x="1373.7000000000003" y="435.6270228866139"/>
+          <y:Path sx="75.0" sy="38.28795830618891" tx="-75.0" ty="-26.927915743756785">
+            <y:Point x="759.6248642779589" y="626.8009543379347"/>
+            <y:Point x="759.6248642779589" y="754.1434136213225"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1199,12 +1342,32 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e30" source="n3::n23" target="n3::n24">
+    <edge id="n5::e9" source="n5::n7" target="n5::n8">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="75.0" sy="-0.0" tx="-89.62952442996743" ty="-0.0"/>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n5::e10" source="n5::n6" target="n5::n9">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="75.0" sy="-0.0" tx="-89.62952442996743" ty="-0.0"/>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n5::e11" source="n5::n3" target="n5::n10">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="75.0" sy="-0.0" tx="-89.62952442996743" ty="-0.0">
-            <y:Point x="1592.7000000000003" y="408.6991071428571"/>
-            <y:Point x="1592.7000000000003" y="437.28918650793645"/>
+            <y:Point x="978.6248642779589" y="622.4542658730157"/>
+            <y:Point x="978.6248642779589" y="581.0713293650792"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1212,42 +1375,22 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e31" source="n3::n22" target="n3::n25">
+    <edge id="n5::e12" source="n5::n11" target="n5::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-0.0" tx="-89.62952442996743" ty="-0.0"/>
+          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="-0.0"/>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e32" source="n3::n19" target="n3::n26">
+    <edge id="n5::e13" source="n5::n10" target="n5::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="75.0" sy="-0.0" tx="-89.62952442996743" ty="-0.0"/>
-          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n3::e33" source="n3::n27" target="n3::n16">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="26.080360436806572"/>
-          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
-          <y:Arrows source="none" target="standard"/>
-          <y:BendStyle smoothed="true"/>
-        </y:PolyLineEdge>
-      </data>
-    </edge>
-    <edge id="n3::e34" source="n3::n26" target="n3::n16">
-      <data key="d10">
-        <y:PolyLineEdge>
-          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="-26.080360436806586">
-            <y:Point x="1804.9590488599351" y="237.2891865079365"/>
-            <y:Point x="1804.9590488599351" y="285.1282705155743"/>
+          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="-41.72857669889052">
+            <y:Point x="1190.8839131378936" y="581.0713293650792"/>
+            <y:Point x="1190.8839131378936" y="639.3427526661887"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1255,12 +1398,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e35" source="n3::n25" target="n3::n16">
+    <edge id="n5::e14" source="n5::n9" target="n5::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="-78.24108131041973">
-            <y:Point x="1822.9590488599351" y="95.90625"/>
-            <y:Point x="1822.9590488599351" y="232.96754964196123"/>
+          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="-83.45715339778104">
+            <y:Point x="1226.8839131378936" y="481.07132936507924"/>
+            <y:Point x="1226.8839131378936" y="597.6141759672983"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1268,12 +1411,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e36" source="n3::n24" target="n3::n16">
+    <edge id="n5::e15" source="n5::n8" target="n5::n0">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="78.24108131041972">
-            <y:Point x="1804.9590488599351" y="437.28918650793645"/>
-            <y:Point x="1804.9590488599351" y="389.44971226280063"/>
+          <y:Path sx="89.62952442996743" sy="-0.0" tx="-243.6324099891421" ty="41.72857669889052">
+            <y:Point x="1190.8839131378936" y="781.0713293650792"/>
+            <y:Point x="1190.8839131378936" y="722.7999060639697"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1281,12 +1424,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e37" source="n3::n16" target="n3::n28">
+    <edge id="n5::e16" source="n5::n0" target="n5::n12">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="243.63240998914216" sy="-52.160720873613116" tx="-58.0" ty="-31.831979515774037">
-            <y:Point x="2731.1573919490042" y="259.04791666666665"/>
-            <y:Point x="2731.1573919490042" y="614.2024450874005"/>
+          <y:Path sx="243.63240998914216" sy="-52.16072087361317" tx="-58.0" ty="-16.9770557417462">
+            <y:Point x="2173.6312323091347" y="628.9106150793649"/>
+            <y:Point x="2173.6312323091347" y="678.4335593376187"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1294,12 +1437,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e38" source="n3::n30" target="n3::n28">
+    <edge id="n5::e17" source="n5::n14" target="n5::n12">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="179.9667615553924" sy="-0.0" tx="-58.0" ty="10.610659838591346">
-            <y:Point x="2713.1573919490042" y="711.0344246031746"/>
-            <y:Point x="2713.1573919490042" y="656.6450844417659"/>
+          <y:Path sx="179.9667615553924" sy="-0.0" tx="-58.0" ty="-33.95411148349231">
+            <y:Point x="2237.8567442680487" y="562.4106150793649"/>
+            <y:Point x="2237.8567442680487" y="661.4565035958726"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1307,14 +1450,14 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e39" source="n3::n3" target="n3::n28">
+    <edge id="e1" source="n3::n3" target="n5::n12">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="12.0" tx="-58.0" ty="31.831979515774037">
-            <y:Point x="915.0000000000002" y="771.5344246031746"/>
-            <y:Point x="915.0000000000002" y="777.5344246031746"/>
-            <y:Point x="2731.1573919490042" y="777.5344246031746"/>
-            <y:Point x="2731.1573919490042" y="677.8664041189486"/>
+          <y:Path sx="58.0" sy="-0.0" tx="-58.0" ty="16.9770557417462">
+            <y:Point x="1837.148733116178" y="1028.8336309523809"/>
+            <y:Point x="1837.148733116178" y="761.9106150793649"/>
+            <y:Point x="2173.6312323091347" y="761.9106150793649"/>
+            <y:Point x="2173.6312323091347" y="712.3876708211111"/>
           </y:Path>
           <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1322,12 +1465,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e40" source="n3::n3" target="n3::n29">
+    <edge id="e2" source="n3::n3" target="n5::n13">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="58.0" sy="-0.0" tx="-151.74124959647816" ty="25.0">
-            <y:Point x="2099.5914588490773" y="759.5344246031746"/>
-            <y:Point x="2099.5914588490773" y="606.0344246031746"/>
+          <y:Path sx="58.0" sy="-12.0" tx="-151.74124959647838" ty="25.0">
+            <y:Point x="1819.148733116178" y="1016.8336309523809"/>
+            <y:Point x="1819.148733116178" y="720.4106150793649"/>
           </y:Path>
           <y:LineStyle color="#FF0000" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1335,12 +1478,12 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e41" source="n3::n16" target="n3::n29">
+    <edge id="n5::e18" source="n5::n0" target="n5::n13">
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="243.6324099891421" sy="52.160720873613144" tx="-151.74124959647838" ty="-25.0">
-            <y:Point x="2343.2238688382195" y="363.36935182599404"/>
-            <y:Point x="2343.2238688382195" y="556.0344246031746"/>
+            <y:Point x="1801.148733116178" y="733.2320502386924"/>
+            <y:Point x="1801.148733116178" y="670.4106150793649"/>
           </y:Path>
           <y:LineStyle color="#FF0000" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
@@ -1348,14 +1491,206 @@ True</y:NodeLabel>
         </y:PolyLineEdge>
       </data>
     </edge>
-    <edge id="n3::e42" source="n3::n29" target="n3::n28">
+    <edge id="n5::e19" source="n5::n13" target="n5::n12">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="151.74124959647838" sy="-0.0" tx="-58.0" ty="-10.610659838591346">
-            <y:Point x="2713.1573919490042" y="581.0344246031746"/>
-            <y:Point x="2713.1573919490042" y="635.4237647645832"/>
+          <y:Path sx="151.74124959647838" sy="-0.0" tx="-58.0" ty="-0.0"/>
+          <y:LineStyle color="#12CDD4" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="n5::n12" target="n3::n14">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-0.0" tx="-151.5" ty="-25.0">
+            <y:Point x="2422.8567442680487" y="695.4106150793649"/>
+            <y:Point x="2422.8567442680487" y="1097.158630952381"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="n3::n15" target="n5::n12">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="107.5" sy="-0.0" tx="-58.0" ty="33.954111483492305">
+            <y:Point x="2273.8567442680487" y="1087.3336309523809"/>
+            <y:Point x="2273.8567442680487" y="729.3647265628572"/>
           </y:Path>
           <y:LineStyle color="#12CDD4" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="n3::n16" target="n5::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="12.0" tx="-243.6324099891421" ty="83.45715339778103">
+            <y:Point x="1280.8839131378936" y="965.8336309523808"/>
+            <y:Point x="1280.8839131378936" y="764.5284827628602"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n3::e19" source="n3::n2" target="n3::n16">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-4.5" tx="-58.0" ty="-0.0">
+            <y:Point x="165.5" y="1063.3336309523809"/>
+            <y:Point x="165.5" y="953.8336309523808"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="n3::n16" target="n6::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-0.0" tx="-76.03622408116509" ty="-49.73551888481302">
+            <y:Point x="1262.8839131378936" y="953.8336309523808"/>
+            <y:Point x="1262.8839131378936" y="233.4435515873015"/>
+            <y:Point x="2079.889982712656" y="233.4435515873015"/>
+            <y:Point x="2079.889982712656" y="234.11517555963133"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="n3::n0" target="n6::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-9.0" tx="-76.03622408116483" ty="49.73551888481292">
+            <y:Point x="2255.8567442680487" y="997.3336309523809"/>
+            <y:Point x="2255.8567442680487" y="333.58621332925736"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="n3::n16" target="n6::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-12.0" tx="-76.03622408116509" ty="-16.578506294937597">
+            <y:Point x="1208.8839131378936" y="941.8336309523808"/>
+            <y:Point x="1208.8839131378936" y="104.90624999999977"/>
+            <y:Point x="2079.889982712656" y="104.90624999999977"/>
+            <y:Point x="2079.889982712656" y="103.56345799077644"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n3::e20" source="n3::n17" target="n3::n3">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="9.0" tx="-58.0" ty="-0.0"/>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="n3::n17" target="n6::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-9.0" tx="-76.03622408116509" ty="16.578506294937597">
+            <y:Point x="1244.8839131378936" y="1010.8336309523809"/>
+            <y:Point x="1244.8839131378936" y="136.72053571428546"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="n6::n0" target="n3::n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="76.03622408116509" sy="-0.0" tx="-90.19999999999982" ty="-41.69999999999999">
+            <y:Point x="2440.8567442680487" y="283.85069444444434"/>
+            <y:Point x="2440.8567442680487" y="1004.8336309523809"/>
+            <y:Point x="2730.056744268049" y="1004.8336309523809"/>
+            <y:Point x="2730.056744268049" y="1014.6336309523808"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="n6::n1" target="n3::n5">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="76.03622408116509" sy="-0.0" tx="-90.19999999999982" ty="-69.50000000000006">
+            <y:Point x="2458.8567442680487" y="120.14196428571404"/>
+            <y:Point x="2458.8567442680487" y="986.8336309523808"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="n3::n1" target="n6::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-0.0" tx="-76.03622408116483" ty="16.57850629493764">
+            <y:Point x="2219.8567442680487" y="940.3336309523808"/>
+            <y:Point x="2219.8567442680487" y="300.42920073938194"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="n3::n1" target="n6::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-12.0" tx="-76.03622408116485" ty="49.73551888481292">
+            <y:Point x="2201.8567442680487" y="928.3336309523808"/>
+            <y:Point x="2201.8567442680487" y="169.87748317052706"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n6::e0" source="n6::n2" target="n6::n0">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-0.0" tx="-76.03622408116483" ty="-16.57850629493764">
+            <y:Point x="2079.889982712656" y="267.9435515873015"/>
+            <y:Point x="2079.889982712656" y="267.27218814950675"/>
+          </y:Path>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
+          <y:Arrows source="none" target="standard"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="n6::e1" source="n6::n3" target="n6::n1">
+      <data key="d10">
+        <y:PolyLineEdge>
+          <y:Path sx="58.0" sy="-0.0" tx="-76.03622408116485" ty="-49.73551888481292"/>
+          <y:LineStyle color="#B266FF" type="line" width="3.0"/>
           <y:Arrows source="none" target="standard"/>
           <y:BendStyle smoothed="true"/>
         </y:PolyLineEdge>

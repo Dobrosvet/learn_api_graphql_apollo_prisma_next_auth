@@ -8,6 +8,8 @@
   },
   "scripts": {
     "dev": "next dev --turbopack",
+    "dev:docker": "docker compose up -d",
+    "dev:db": "npx prisma migrate dev --name init && npx prisma generate",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
@@ -18,9 +20,11 @@
     "@graphql-tools/graphql-file-loader": "^8.0.2",
     "@graphql-tools/load": "^8.0.3",
     "@graphql-tools/schema": "^10.0.7",
+    "@prisma/client": "^5.22.0",
     "graphql": "^16.9.0",
     "graphql-tag": "^2.12.6",
     "next": "15.0.3",
+    "prisma": "^5.22.0",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106"
   },

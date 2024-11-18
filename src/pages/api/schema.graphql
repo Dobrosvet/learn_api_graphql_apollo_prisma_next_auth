@@ -16,3 +16,12 @@ type Block {
   from: [Block]
   to: [Block]
 }
+
+type Mutation {
+  addBlock(content: String!, from: [ID!], to: [ID!]): Block
+  updateBlockContent(id: ID!, content: String): Block
+  addToBlockFrom(id: ID!, fromId: ID!): Block
+  addToBlockTo(id: ID!, toId: ID!): Block
+  removeFromBlockFrom(id: ID!, fromId: ID!): Block
+  removeFromBlockTo(id: ID!, toId: ID!): Block
+}

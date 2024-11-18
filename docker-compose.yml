@@ -1,0 +1,26 @@
+services:
+  postgres:
+    image: postgres
+    environment:
+      POSTGRES_DB: "learn_api_graphql_apollo_next_auth"
+      POSTGRES_USER: "test"
+      POSTGRES_PASSWORD: "test"
+      PGDATA: "/var/lib/postgresql/data/pgdata"
+    volumes:
+      - ~/learn_api_graphql_apollo_next_auth:/var/lib/postgresql/data
+    # Expose the Postgres port to the host machine,
+    # so you can inspect and administrate it
+    ports:
+      - '54340:5432'
+  pg_proxy:
+    image: ghcr.io/neondatabase/wsproxy:latest
+    environment:
+      APPEND_PORT: 'postgres:5432'
+      ALLOW_ADDR_REGEX: '.*'
+      LOG_TRAFFIC: 'true'
+    ports:
+      # Expose the WebSocket proxy port to the host machine,
+      # this is where @vercel/postgres will connect
+      - '54350:80'
+    depends_on:
+      - postgres

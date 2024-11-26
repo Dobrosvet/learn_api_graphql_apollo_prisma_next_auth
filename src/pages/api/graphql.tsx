@@ -8,6 +8,8 @@ import { PrismaClient, Block } from '@prisma/client'
 
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import authorizationIsRequired from '@/app/authorizationIsRequired'
+import { IncomingHttpHeaders } from 'node:http'
 
 // Определяем перменную __dirname так как её нет в текущем контексте
 const __filename = fileURLToPath(import.meta.url);
@@ -46,14 +48,16 @@ const resolvers = {
       });
     },
     // Обновление контента блока
-    updateBlockContent: async (_: undefined, { id, content }: { id: string; content: string }): Promise<Block> => {
+    updateBlockContent: async (_: undefined, { id, content }: { id: string; content: string }, context: { headers: IncomingHttpHeaders }): Promise<Block> => {
+      await authorizationIsRequired(context.headers.authorization)
       return await prisma.block.update({
         where: { id },
         data: { content },
       });
     },
     // Добавление связи в `from`
-    addToBlockFrom: async (_: undefined, { id, fromId }: { id: string; fromId: string }): Promise<Block> => {
+    addToBlockFrom: async (_: undefined, { id, fromId }: { id: string; fromId: string }, context: { headers: IncomingHttpHeaders }): Promise<Block> => {
+      await authorizationIsRequired(context.headers.authorization)
       return await prisma.block.update({
         where: { id },
         data: {
@@ -68,7 +72,8 @@ const resolvers = {
       });
     },
     // Добавление связи в `to`
-    addToBlockTo: async (_: undefined, { id, toId }: { id: string; toId: string }): Promise<Block> => {
+    addToBlockTo: async (_: undefined, { id, toId }: { id: string; toId: string }, context: { headers: IncomingHttpHeaders }): Promise<Block> => {
+      await authorizationIsRequired(context.headers.authorization)
       return await prisma.block.update({
         where: { id },
         data: {
@@ -83,7 +88,8 @@ const resolvers = {
       });
     },
     // Удаление связи из `from`
-    removeFromBlockFrom: async (_: undefined, { id, fromId }: { id: string; fromId: string }): Promise<Block> => {
+    removeFromBlockFrom: async (_: undefined, { id, fromId }: { id: string; fromId: string }, context: { headers: IncomingHttpHeaders }): Promise<Block> => {
+      await authorizationIsRequired(context.headers.authorization)
       return await prisma.block.update({
         where: { id },
         data: {
@@ -98,7 +104,8 @@ const resolvers = {
       });
     },
     // Удаление связи из `to`
-    removeFromBlockTo: async (_: undefined, { id, toId }: { id: string; toId: string }): Promise<Block> => {
+    removeFromBlockTo: async (_: undefined, { id, toId }: { id: string; toId: string }, context: { headers: IncomingHttpHeaders }): Promise<Block> => {
+      await authorizationIsRequired(context.headers.authorization)
       return await prisma.block.update({
         where: { id },
         data: {
@@ -143,7 +150,12 @@ const schemaWithResolvers = addResolversToSchema({
 })
 
 const server = new ApolloServer({
-  schema: schemaWithResolvers
+  schema: schemaWithResolvers,
 });
 
-export default startServerAndCreateNextHandler(server);
+export default startServerAndCreateNextHandler(server, {
+    context: async (req) => {
+      const headers = req.headers
+      return { headers }
+    },
+})
